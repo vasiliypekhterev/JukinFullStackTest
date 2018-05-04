@@ -1,0 +1,5 @@
+rootProject.name = 'JukinFullStack'
+
+
+include 'backend'
+include 'frontend'
